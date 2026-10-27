@@ -1,0 +1,10 @@
+[project]
+name = "localfilesearchmcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "litellm>=1.105.0",
+    "mcp[cli]>=2.3.0",
+]

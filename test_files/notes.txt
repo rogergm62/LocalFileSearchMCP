@@ -1,0 +1,1 @@
+Here is the word Python inside this file "notes.txt"

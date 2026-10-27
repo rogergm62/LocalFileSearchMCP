@@ -1,0 +1,4 @@
+For example, suppose cybersecurity.txt contains:
+Cybersecurity protects computers and networks.
+Python is useful for security automation.
+MCP allows AI agents to access external tools.
