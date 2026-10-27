@@ -1,6 +1,8 @@
 from pathlib import Path
 from mcp.server import MCPServer
 
+# Experimental branch: feature-file-filter
+
 # Create our MCP server
 mcp = MCPServer("Local File Search")
 
